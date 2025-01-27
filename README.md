@@ -4,20 +4,6 @@
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
 
 
-A customizable blog starter using:
-
-- [Next.js](https://github.com/vercel/next.js) v15 (Pages Router)
-- [Tailwind](https://tailwindcss.com/) v3.x
-- [Netlify Visual Editor](https://docs.netlify.com/visual-editor/overview/)
-- Built-in [MDX](https://mdxjs.com/) support
-- Includes modern design with dark & light themes
-
-![Preview of blog theme. Author named Jay Doe and blog's name is "Next.js Blog Theme" with one blog post](nextjs-blog-theme-preview.png)
-
-[Take a gander at the demo.](https://bejamas-nextjs-blog.netlify.app)
-
-[Click here to watch the template walkthrough!](https://www.youtube.com/watch?v=63QZHs259dY)
-
 ## Table of Contents:
 
 - [Getting Started](#getting-started)
